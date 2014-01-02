@@ -1,0 +1,124 @@
+/* CSS zu Aufgabe MOOC WebENg I Kapitel 6 */
+/* 19.11.2013 Marcel Vanderschaeghe       */
+
+body{
+	background-color: #FF5F00;
+	/*background-image: -webkit-radial-gradient(white 0%, #FF5F00 100%); 
+	background-image: -moz-radial-gradient(white 0%, #FF5F00 100%); 
+	background-image: -o-radial-gradient(white 0%, #FF5F00 100%); 
+	background-image: radial-gradient(white 0%, #FF5F00 100%);*/
+
+}
+
+table{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+th {
+	text-align: center;
+	font-family: Verdana;
+	font-weight: bold;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-right: 10px;
+	padding-left: 10px;
+	color: black;
+	background-color: #A63E00;
+	/*border-radius: 5px;*/
+	/*text-shadow: -1px -1px 0px #202020, 1px 1px 0px #FFA773;*/
+	/*text-shadow: 1px 1px 0px #202020, -1px -1px 0px #606060;*/
+}
+
+td{
+	font-family: Verdana;
+	font-size: 12px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: #FFA773; /* hover Farbe #FF8740*/
+	/*border-radius: 5px;*/
+}
+
+#titleH2 {
+	font-family: Verdana;
+	font-weight: bold;
+	font-size: 25px;
+	text-align: center;
+	/*text-shadow: 1px 1px 0px #202020, -1px -1px 0px #606060;*/
+	/*text-shadow: -1px -1px 0px #202020, 1px 1px 0px #FFA773;*/
+	padding-top: 25px;
+	padding-bottom: 25px;
+	color: black;
+	/*Border-radius: 5px;*/
+	background-color: #A63E00;/*#404040;*/
+}
+
+#titleH21 {
+	font-family: Verdana;
+	font-weight: bold;
+	font-size: 15px;
+	text-align: center;
+	/*text-shadow: 1px 1px 0px #202020, -1px -1px 0px #606060;*/
+	/*text-shadow: -1px -1px 0px #202020, 1px 1px 0px #FFA773;*/
+	padding-top: 15px;
+	padding-bottom: 15px;
+	color: black;
+	/*Border-radius: 5px;*/
+	background-color: #A63E00;/*#404040;*/
+}
+
+#footH2 {
+	font-family: Verdana;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+	/*text-shadow: 1px 1px 0px #202020, -1px -1px 0px #606060;*/
+	/*text-shadow: -1px -1px 0px #202020, 1px 1px 0px #FFA773;*/
+	padding-top: 25px;
+	padding-bottom: 25px;
+	color: black;
+	/*Border-radius: 5px;*/
+	background-color: #A63E00;/*#404040;*/
+}
+
+/* kann für weitere Formatierung verwendet werden */
+.tag{
+}
+
+/* kann für weitere Formatierung verwendet werden */
+.beschreibung{
+}
+
+/* kann für weitere Formatierung verwendet werden */
+.inline{
+	text-align: center;
+}
+
+/* kann für weitere Formatierung verwendet werden */
+.semantik{
+	text-align: center;
+}
+
+/* Link-Formatierung */
+a:link {
+	color:	blue;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #999999;
+	text-decoration: none;
+}
+
+a:active {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+

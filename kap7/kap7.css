@@ -1,0 +1,94 @@
+/* CSS zu Aufgabe MOOC WebENg I Kapitel 7 */
+/* 02.12.2013 Marcel Vanderschaeghe       */
+
+body{
+	background-color: #FF5F00;
+	/*background-image: -webkit-radial-gradient(white 0%, #FF5F00 100%); 
+	background-image: -moz-radial-gradient(white 0%, #FF5F00 100%); 
+	background-image: -o-radial-gradient(white 0%, #FF5F00 100%); */
+	/*background-image: radial-gradient(white 0%, #FF5F00 100%);*/
+
+}
+
+h1{
+	font-family: Verdana, Arial;
+	font-size: 25px;
+	padding-left: 15px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: #FFA773; /* hover Farbe #FF8740*/
+	/*border-radius: 5px;*/
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+h2{
+	font-family: Verdana, Arial;
+	font-size: 12px;
+	padding-left: 15px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: #FFA773; /* hover Farbe #FF8740*/
+	/*border-radius: 5px;*/
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+form{
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+legend, label{
+	font-family: Verdana, Arial;
+	font-weight: bold;
+}
+
+
+
+/* kann für weitere Formatierung verwendet werden */
+.tag{
+}
+
+/* kann für weitere Formatierung verwendet werden */
+.beschreibung{
+}
+
+/* kann für weitere Formatierung verwendet werden */
+.inline{
+	text-align: center;
+}
+
+/* kann für weitere Formatierung verwendet werden */
+.semantik{
+	text-align: center;
+}
+
+/* Link-Formatierung */
+a:link {
+	color:	blue;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #999999;
+	text-decoration: none;
+}
+
+a:active {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
