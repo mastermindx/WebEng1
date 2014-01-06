@@ -49,10 +49,10 @@
 		   <br />
 		   Telefon: 555-225445-226<br />
 		   Telefax: 555-225445-225<br />
-		   E-Mail: marcel [at] vanderschaeghe [dot] de
+		   E-Mail: &#109;&#97;&#114;&#99;&#101;&#108;&#64;&#118;&#97;&#110;&#100;&#101;&#114;&#115;&#99;&#104;&#97;&#101;&#103;&#104;&#101;&#46;&#100;&#101;
 		</p>
 		
-        <a class="btn btn-primary" href="mailto:marcel@vanderschaeghe.de" >&#77;&#97;&#105;&#108;</a><br/><br/>
+        <a class="btn btn-primary" href="mailto:&#109;&#97;&#114;&#99;&#101;&#108;&#64;&#118;&#97;&#110;&#100;&#101;&#114;&#115;&#99;&#104;&#97;&#101;&#103;&#104;&#101;&#46;&#100;&#101;" >&#77;&#97;&#105;&#108;</a><br/><br/>
       
 		<h5><b>Haftungsausschluss (Disclaimer)</b></h5><br/><br/>
 		<p><strong>Haftung für Inhalte</strong></p> 
